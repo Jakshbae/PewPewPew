@@ -43,4 +43,12 @@
         tools:layout_editor_absoluteX="159dp"
         tools:layout_editor_absoluteY="203dp" />
 
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="315dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
